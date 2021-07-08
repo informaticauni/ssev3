@@ -268,96 +268,82 @@
 	"model": "dependencias.dependencia",
 	"pk": 39,
 	"fields": {
-		"descripcion": "FACEA Administracion",
-		"activo": false
-	}
-}, {
-	"model": "dependencias.dependencia",
-	"pk": 40,
-	"fields": {
 		"descripcion": "Incuni",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 41,
+	"pk": 40,
 	"fields": {
 		"descripcion": "Protocolo y Eventos",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 42,
+	"pk": 41,
 	"fields": {
 		"descripcion": "MECIP REC ",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 43,
-	"fields": {
-		"descripcion": "Cooperaci\u00f3n Estudiantil",
-		"activo": false
-	}
-}, {
-	"model": "dependencias.dependencia",
-	"pk": 44,
+	"pk": 42,
 	"fields": {
 		"descripcion": "Departamento de Mantenimiento",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 45,
+	"pk": 43,
 	"fields": {
 		"descripcion": "Evaluaci\u00f3n Acad\u00e9mica-Estadistica",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 46,
+	"pk": 44,
 	"fields": {
 		"descripcion": "Asuntos Legales U Acad",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 47,
+	"pk": 45,
 	"fields": {
 		"descripcion": "Departamento de Documentaci\u00f3n Institucional",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 48,
+	"pk": 46,
 	"fields": {
 		"descripcion": "Direcci\u00f3n de Investigaci\u00f3n y Ambiente",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 49,
+	"pk": 47,
 	"fields": {
 		"descripcion": "Direcci\u00f3n de Aseguramiento de la Calidad",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 50,
+	"pk": 48,
 	"fields": {
 		"descripcion": "Direcci\u00f3n de Cooperaci\u00f3n",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 51,
+	"pk": 49,
 	"fields": {
 		"descripcion": "Departamento de Extensi\u00f3n Universitaria",
 		"activo": true
 	}
 }, {
 	"model": "dependencias.dependencia",
-	"pk": 52,
+	"pk": 50,
 	"fields": {
 		"descripcion": "Departamento de Difusi\u00f3n Cultural",
 		"activo": true

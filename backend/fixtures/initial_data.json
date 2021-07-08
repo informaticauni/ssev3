@@ -307,21 +307,13 @@
       "model":"dependencias.dependencia",
       "pk":39,
       "fields":{
-         "descripcion":"FACEA Administracion",
-         "activo":false
-      }
-   },
-   {
-      "model":"dependencias.dependencia",
-      "pk":40,
-      "fields":{
          "descripcion":"Incuni",
          "activo":true
       }
    },
    {
       "model":"dependencias.dependencia",
-      "pk":41,
+      "pk":40,
       "fields":{
          "descripcion":"Protocolo y Eventos",
          "activo":true
@@ -329,7 +321,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":42,
+      "pk":41,
       "fields":{
          "descripcion":"MECIP REC ",
          "activo":true
@@ -337,15 +329,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":43,
-      "fields":{
-         "descripcion":"Cooperaci\u00f3n Estudiantil",
-         "activo":false
-      }
-   },
-   {
-      "model":"dependencias.dependencia",
-      "pk":44,
+      "pk":42,
       "fields":{
          "descripcion":"Departamento de Mantenimiento",
          "activo":true
@@ -353,7 +337,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":45,
+      "pk":43,
       "fields":{
          "descripcion":"Evaluaci\u00f3n Acad\u00e9mica-Estadistica",
          "activo":true
@@ -361,7 +345,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":46,
+      "pk":44,
       "fields":{
          "descripcion":"Asuntos Legales U Acad",
          "activo":true
@@ -369,7 +353,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":47,
+      "pk":45,
       "fields":{
          "descripcion":"Departamento de Documentaci\u00f3n Institucional",
          "activo":true
@@ -377,7 +361,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":48,
+      "pk":46,
       "fields":{
          "descripcion":"Direcci\u00f3n de Investigaci\u00f3n y Ambiente",
          "activo":true
@@ -385,7 +369,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":49,
+      "pk":47,
       "fields":{
          "descripcion":"Direcci\u00f3n de Aseguramiento de la Calidad",
          "activo":true
@@ -393,7 +377,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":50,
+      "pk":48,
       "fields":{
          "descripcion":"Direcci\u00f3n de Cooperaci\u00f3n",
          "activo":true
@@ -401,7 +385,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":51,
+      "pk":49,
       "fields":{
          "descripcion":"Departamento de Extensi\u00f3n Universitaria",
          "activo":true
@@ -409,7 +393,7 @@
    },
    {
       "model":"dependencias.dependencia",
-      "pk":52,
+      "pk":50,
       "fields":{
          "descripcion":"Departamento de Difusi\u00f3n Cultural",
          "activo":true
@@ -761,23 +745,7 @@
    },
    {
       "model":"tipos_de_expedientes.tipo_de_expediente",
-      "pk":34,
-      "fields":{
-         "descripcion":"Rendici\u00f3n de Becas de Apoyo Econ\u00f3mico - BAE (2018)",
-         "activo":true
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente",
       "pk":35,
-      "fields":{
-         "descripcion":"Contratos Servicios Personales (Form 002-B)",
-         "activo":false
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente",
-      "pk":36,
       "fields":{
          "descripcion":"Solicitud de Contratos Servicios Personales Ob 144 Jornales",
          "activo":true
@@ -3107,60 +3075,6 @@
    },
    {
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":259,
-      "fields":{
-         "tipo_de_expediente_id":29,
-         "dependencia_id":9,
-         "orden":2
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":260,
-      "fields":{
-         "tipo_de_expediente_id":29,
-         "dependencia_id":31,
-         "orden":3
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":261,
-      "fields":{
-         "tipo_de_expediente_id":29,
-         "dependencia_id":6,
-         "orden":4
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":262,
-      "fields":{
-         "tipo_de_expediente_id":29,
-         "dependencia_id":3,
-         "orden":5
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":263,
-      "fields":{
-         "tipo_de_expediente_id":29,
-         "dependencia_id":5,
-         "orden":6
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":264,
-      "fields":{
-         "tipo_de_expediente_id":29,
-         "dependencia_id":12,
-         "orden":7
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":265,
       "fields":{
          "tipo_de_expediente_id":30,
@@ -3215,15 +3129,6 @@
    },
    {
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":271,
-      "fields":{
-         "tipo_de_expediente_id":29,
-         "dependencia_id":8,
-         "orden":1
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":272,
       "fields":{
          "tipo_de_expediente_id":31,
@@ -3245,7 +3150,7 @@
       "pk":274,
       "fields":{
          "tipo_de_expediente_id":31,
-         "dependencia_id":3,
+         "dependencia_id":6,
          "orden":3
       }
    },
@@ -3254,7 +3159,7 @@
       "pk":275,
       "fields":{
          "tipo_de_expediente_id":31,
-         "dependencia_id":30,
+         "dependencia_id":3,
          "orden":4
       }
    },
@@ -3371,7 +3276,7 @@
       "pk":288,
       "fields":{
          "tipo_de_expediente_id":33,
-         "dependencia_id":46,
+         "dependencia_id":44,
          "orden":7
       }
    },
@@ -3416,7 +3321,7 @@
       "pk":293,
       "fields":{
          "tipo_de_expediente_id":33,
-         "dependencia_id":46,
+         "dependencia_id":44,
          "orden":12
       }
    },
@@ -3451,7 +3356,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":297,
       "fields":{
-         "tipo_de_expediente_id":34,
+         "tipo_de_expediente_id":29,
          "dependencia_id":31,
          "orden":1
       }
@@ -3460,7 +3365,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":298,
       "fields":{
-         "tipo_de_expediente_id":34,
+         "tipo_de_expediente_id":29,
          "dependencia_id":8,
          "orden":2
       }
@@ -3469,7 +3374,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":299,
       "fields":{
-         "tipo_de_expediente_id":34,
+         "tipo_de_expediente_id":29,
          "dependencia_id":6,
          "orden":3
       }
@@ -3478,7 +3383,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":300,
       "fields":{
-         "tipo_de_expediente_id":34,
+         "tipo_de_expediente_id":29,
          "dependencia_id":3,
          "orden":4
       }
@@ -3487,7 +3392,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":301,
       "fields":{
-         "tipo_de_expediente_id":34,
+         "tipo_de_expediente_id":29,
          "dependencia_id":5,
          "orden":5
       }
@@ -3496,97 +3401,16 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":302,
       "fields":{
-         "tipo_de_expediente_id":34,
+         "tipo_de_expediente_id":29,
          "dependencia_id":12,
          "orden":6
       }
    },
    {
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":303,
-      "fields":{
-         "tipo_de_expediente_id":35,
-         "dependencia_id":9,
-         "orden":1
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":304,
-      "fields":{
-         "tipo_de_expediente_id":35,
-         "dependencia_id":5,
-         "orden":2
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":305,
-      "fields":{
-         "tipo_de_expediente_id":35,
-         "dependencia_id":11,
-         "orden":3
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":306,
-      "fields":{
-         "tipo_de_expediente_id":35,
-         "dependencia_id":22,
-         "orden":4
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":307,
-      "fields":{
-         "tipo_de_expediente_id":35,
-         "dependencia_id":14,
-         "orden":5
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":308,
-      "fields":{
-         "tipo_de_expediente_id":35,
-         "dependencia_id":29,
-         "orden":6
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":309,
-      "fields":{
-         "tipo_de_expediente_id":35,
-         "dependencia_id":10,
-         "orden":7
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":310,
-      "fields":{
-         "tipo_de_expediente_id":35,
-         "dependencia_id":29,
-         "orden":8
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
-      "pk":311,
-      "fields":{
-         "tipo_de_expediente_id":35,
-         "dependencia_id":14,
-         "orden":9
-      }
-   },
-   {
-      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":312,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":14,
          "orden":1
       }
@@ -3595,7 +3419,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":313,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":9,
          "orden":2
       }
@@ -3604,7 +3428,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":314,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":5,
          "orden":3
       }
@@ -3613,7 +3437,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":315,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":11,
          "orden":4
       }
@@ -3622,7 +3446,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":316,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":22,
          "orden":5
       }
@@ -3631,7 +3455,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":317,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":14,
          "orden":6
       }
@@ -3640,7 +3464,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":318,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":22,
          "orden":7
       }
@@ -3649,7 +3473,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":319,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":10,
          "orden":8
       }
@@ -3658,7 +3482,7 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":320,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":22,
          "orden":9
       }
@@ -3667,31 +3491,27 @@
       "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
       "pk":321,
       "fields":{
-         "tipo_de_expediente_id":36,
+         "tipo_de_expediente_id":35,
          "dependencia_id":14,
          "orden":10
       }
    },
    {
-      "model":"auth.user",
-      "pk":1,
+      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
+      "pk":322,
       "fields":{
-         "password":"pbkdf2_sha256$180000$8tNXevT00AnP$td/Hq+ljYJYtqZtR2EZlBo0F2IqfUaNR94DfH5FJIeA=",
-         "last_login":"2020-06-11T14:45:41.161Z",
-         "is_superuser":true,
-         "username":"admin",
-         "first_name":"",
-         "last_name":"",
-         "email":"informatica@uni.edu.py",
-         "is_staff":true,
-         "is_active":true,
-         "date_joined":"2020-06-10T16:00:33.729Z",
-         "groups":[
-
-         ],
-         "user_permissions":[
-
-         ]
+         "tipo_de_expediente_id":31,
+         "dependencia_id":5,
+         "orden":5
+      }
+   },
+   {
+      "model":"tipos_de_expedientes.tipo_de_expediente_detalle",
+      "pk":323,
+      "fields":{
+         "tipo_de_expediente_id":31,
+         "dependencia_id":12,
+         "orden":6
       }
    }
 ]

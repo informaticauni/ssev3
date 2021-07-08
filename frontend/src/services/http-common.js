@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // URL base para la conexiona con la API
-const baseURL = 'http://192.168.17.14:8000/api';
+const baseURL = 'http://sse3.campus.uni.edu.py:8000/api';
 
 // Creacion de la instancia de Axios
 const axiosInstance = axios.create({
